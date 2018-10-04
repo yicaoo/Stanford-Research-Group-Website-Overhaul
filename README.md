@@ -1,9 +1,9 @@
 # Stanford-Research-Group-Website-Overhaul
 
-old website
+Old website
 ---
 https://hanson.stanford.edu/
 
-new site in progress
+New site in progress
 ---
 https://hanson.stanford.edu/cardinal/index.html
