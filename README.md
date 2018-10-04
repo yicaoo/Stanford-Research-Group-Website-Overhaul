@@ -1,4 +1,6 @@
 # Stanford-Research-Group-Website-Overhaul
+* Update website contents
+* Add more sophisticated styles and designs
 
 Old website
 ---
